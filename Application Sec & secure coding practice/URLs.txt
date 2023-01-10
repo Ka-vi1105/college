@@ -1,0 +1,4 @@
+Online References:
+1. https://nptel.ac.in/courses/106106146
+2. https://www.coursera.org/specializations/secure-coding-practices?
+3. https://www.coursera.org/learn/systems-application-security-sscp

@@ -1,0 +1,7 @@
+Online References:
+1. https://freevideolectures.com/course/4070/nptel-ethical-hacking
+2. https://owasp.org/www-project-top-ten/
+3. https://www.computersecuritystudent.com/
+4. http://www.opentechinfo.com/learn-use-kali-linux/
+5. https://pentesterlab.com
+6. https://www.exploit-db.com/google-hacking-database 
